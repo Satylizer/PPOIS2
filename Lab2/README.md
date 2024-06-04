@@ -2,6 +2,9 @@
 Марухин Денис Александрович, 221701
 
 Задание было таким:
+
+
+
 ![image](https://github.com/Satylizer/PPOIS2/assets/108609627/f915b14c-1121-4fcf-972a-6437fecbb2b8)
 ![image](https://github.com/Satylizer/PPOIS2/assets/108609627/2782f638-1aaa-4ce4-8c50-cbe61c9d1f63)
 ![image](https://github.com/Satylizer/PPOIS2/assets/108609627/6c245f7d-dbdf-460d-8f31-22f7e224da98)
